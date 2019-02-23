@@ -1,0 +1,24 @@
+{
+  "name": "juslintek/supplier",
+  "description": "Supplier module I wrote during the employment task for Visma",
+  "type": "magento-module",
+  "homepage": "https://github.com/juslintek/magento-supplier.git",
+  "license": ["GPL-3.0"],
+  "authors": [
+    {
+      "name": "juslintek",
+      "email": "jusys.linas@gmail.com"
+    }
+  ],
+  "prefer-stable": true,
+  "minimum-stability": "dev",
+  "suggest": {
+    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.firegento.com"
+    }
+  ]
+}

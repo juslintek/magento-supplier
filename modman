@@ -1,0 +1,3 @@
+src/app/code/local/Juslintek/Supplier	app/code/local/Juslintek/Supplier
+src/app/design/frontend/base/default/template/juslintek/supplier/widget/default.phtml   app/design/frontend/base/default/template/juslintek/supplier/widget/default.phtml
+src/app/etc/modules/Juslintek_Supplier.xml	app/etc/modules/Juslintek_Supplier.xml

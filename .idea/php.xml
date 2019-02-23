@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/deploy/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/deploy/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/deploy/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/deploy/vendor/aydin-hassan/magento-core-composer-installer" />
+      <path value="$PROJECT_DIR$/deploy/vendor/firegento/magento" />
+      <path value="$PROJECT_DIR$/deploy/vendor/magento-hackathon/magento-composer-installer" />
+      <path value="$PROJECT_DIR$/deploy/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/deploy/vendor/eloquent/composer-config-reader" />
+      <path value="$PROJECT_DIR$/deploy/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/deploy/vendor/composer" />
+      <path value="$PROJECT_DIR$/deploy/vendor/firegento/mage-ci" />
+      <path value="$PROJECT_DIR$/deploy/vendor/eloquent/enumeration" />
+      <path value="$PROJECT_DIR$/deploy/vendor/firegento/gridcontrol" />
+    </include_path>
+  </component>
+</project>

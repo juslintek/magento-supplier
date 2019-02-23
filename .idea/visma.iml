@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/aydin-hassan/magento-core-composer-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/eloquent/composer-config-reader" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/eloquent/enumeration" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/firegento/gridcontrol" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/firegento/mage-ci" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/firegento/magento" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/justinrainbow/json-schema" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/magento-hackathon/magento-composer-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy/vendor/symfony/polyfill-mbstring" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
