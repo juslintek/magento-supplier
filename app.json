@@ -1,0 +1,6 @@
+{
+  "name": "Magento SUpplier",
+  "description": "Heroku App Environment for Supplier Project demo",
+  "repository": "https://github.com/juslintek/magento-supplier",
+  "addons": []
+}

@@ -16,6 +16,7 @@
       <path value="$PROJECT_DIR$/deploy/vendor/eloquent/enumeration" />
       <path value="$PROJECT_DIR$/deploy/vendor/firegento/gridcontrol" />
       <path value="$PROJECT_DIR$/deploy/vendor/juslintek/supplier" />
+      <path value="$PROJECT_DIR$/deploy/vendor/rossigee/config-envvars" />
     </include_path>
   </component>
 </project>
