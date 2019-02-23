@@ -15,6 +15,7 @@
       <path value="$PROJECT_DIR$/deploy/vendor/firegento/mage-ci" />
       <path value="$PROJECT_DIR$/deploy/vendor/eloquent/enumeration" />
       <path value="$PROJECT_DIR$/deploy/vendor/firegento/gridcontrol" />
+      <path value="$PROJECT_DIR$/deploy/vendor/juslintek/supplier" />
     </include_path>
   </component>
 </project>
